@@ -1,8 +1,7 @@
 <div align = center>
-  ## Hi there 👋
+  Hi there 👋
   <br>
 </div>
-## Hi there 👋
 
 <!--
 **wlstjd6524/wlstjd6524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skill 🤔
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+<div align = center> 
+  Skill 🤔
+  <br>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+</div>
