@@ -53,18 +53,6 @@
 ![WandB](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 </div>
-
-  Skill 🤔 <br> <br>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <!--Java-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <!--Python-->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Python&logoColor=white"> <!--Jupyter-->
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <!--//Linux-->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <!--//Windows-->
-  <br>
-  <img src="https://img.shields.io/badge/Optuna-002C76?style=for-the-badge&logo=Python&logoColor=white"> <!--Optuna-->
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Python&logoColor=white"> <!--Numpy-->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Python&logoColor=white"> <!--Pandas-->
   
 <!--
 **wlstjd6524/wlstjd6524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
