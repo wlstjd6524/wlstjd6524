@@ -73,8 +73,8 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/>
         <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=black"/>
-        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=AWS_S3&logoColor=black"/>
-        <img src="https://img.shields.io/badge/AWS_EC2-DC682E?style=flat-square&logo=AWS_EC2&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=AWS&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AWS_EC2-DC682E?style=flat-square&logo=linuxserver&logoColor=black"/>
         <img src="https://img.shields.io/badge/Notion-FF0000?style=flat-square&logo=Notion&logoColor=black"/>
       </p>
     </td>
@@ -83,19 +83,17 @@
       <a href="https://github.com/wlstjd6524/HousePricePrediction"> <br>
         <img src="https://github.com/user-attachments/assets/507d8897-7588-47b7-80b1-bf448aa4a9fb" alt="Game Recommendation" width="100%"/>
       </a>
-      <p><b>Period: Sep–Oct 2025</b></p>
-      <p> Built end-to-end MLOps pipeline for game recommendation system</p>
-      <p> Collected game metadata from RAWG API and trained ItemCF model</p>
-      <p> Automated model retraining & inference using Airflow DAG</p>
-      <p> Deployed real-time recommendation API with FastAPI</p>
-      <p> Complete CI/CD automation from code push to production deployment</p>
+      <p><b>Period: Dec 2025</b></p>
+      <p> 대회용 주택 가격 데이터를 기반으로 EDA, 전처리, 이상치 처리를 수행하며 데이터 이해 및 품질 개선</p>
+      <p> 기본으로 제공된 데이터 뿐만 아니라 추가적인 특별 데이터(금리, 대중교통과 거리)를 수동으로 직접 얻어오며 데이터 품질에 대한 성능 향상 개선</p>
+      <p> 파생변수 생성과 피처 엔지니어링을 통해 모델 성능에 영향을 주는 핵심 특성 설계</p>
+      <p> LightGBM 모델을 활용하여 가격 예측 모델 학습 및 Optuna 라이브러리를 통해 하이퍼파라미터 튜닝으로 성능 최적화</p>
+      <p> 예측결과를 기반으로 제출용 테스트 모델과 결과 파일을 생성하며 ML 문제 해결 전 과정을 경험</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LightGBM-F37?style=flat-square&logo=themodelsresource&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Optuna-002C76?style=flat-square&logo=githubactions&logoColor=white"/>
       </p>
     </td>
   </tr>
