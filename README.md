@@ -16,6 +16,7 @@
 <div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white)
 
 </div>
 
@@ -79,9 +80,9 @@
       </p>
     </td>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>🏡 서울 아파트 실거래가 예측 서비스</h3>
+      <h3>🏡 서울 아파트 실거래가 예측 서비스 | Rank: 🥇 1st (RMSE: 11780)</h3>
       <a href="https://github.com/wlstjd6524/HousePricePrediction"> <br>
-        <img src="https://github.com/user-attachments/assets/507d8897-7588-47b7-80b1-bf448aa4a9fb" alt="Game Recommendation" width="100%"/>
+        <img src="https://github.com/user-attachments/assets/507d8897-7588-47b7-80b1-bf448aa4a9fb" alt="HousePricePrediction" width="100%"/>
       </a>
       <p><b>Period: Dec 2025</b></p>
       <p> 대회용 주택 가격 데이터를 기반으로 EDA, 전처리, 이상치 처리를 수행하며 데이터 이해 및 품질 개선</p>
@@ -97,6 +98,51 @@
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" align="left" valign="top" style="padding: 20px;">
+      <h3>🏢 OpenAI 를 통한 나만의 자동화 음악 큐레이션 시스템</h3>
+      <a href="https://github.com/wlstjd6524/OpenAiAutoDJ"> <br>
+        <img src="https://github.com/user-attachments/assets/f21a0a0c-a701-476b-a583-d57409fcc5b1" alt="OpenAiAutoDJ" width="100%"/>
+      </a>
+      <p><b>Period: Apr 2025 </b></p>
+      <p> OpenAI API 로 사용자의 기분 과 취향 등을 입력받아 개인화된 플레이리스트를 자동추천</p>
+      <p> 추천 곡을 Youtube 에서 자동으로 검색 후 음원을 자동으로 다운로드 하여 MP3 로 저장</p>
+      <p> 플레이리스트 분위기에 맞춰 DELLE2 / Stable Diffusion(dreamlike-diffusion) 기반 커버 아트 이미지 생성</p>
+      <p> 생성 이미지 와 기존 MP4를 활용해 영상 합성 파이프라인 구성(ffmpeg, moviepy)</p>
+      <p> MP3 앨범 아트에 곡 정보 삽입 및 결과물을 HTML UI로 자동 생성해 콘텐츠 형태로 출력</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/StableDiffusion-AF001E?style=flat-square&logo=stabilityai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dalle2-ECD53F?style=flat-square&logo=Dalle2&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+        <img src="https://img.shields.io/badge/moviepy-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/youtubeSearchModule-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" align="left" valign="top" style="padding: 20px;">
+      <h3>🖼️ Wi-Fi CSI Data 를 활용한 실시간 행동 모니터링 시스</h3>
+      <a href="https://github.com/wlstjd6524/capstoneDevelopPro"> <br>
+        <img src="https://github.com/user-attachments/assets/d23de58a-b095-41ab-b0d5-6d5837b40a36" alt="Document Classification" width="100%"/>
+      </a>
+      <p><b>Period: Sep ~ Dec 2024 | Achievement: 🏆 Advanced to Final Round</b></p>
+        <p> Wi-Fi CSI(Channel State Information) 데이터를 활용해 비접촉/저비용 환경에서 실내 행동을 인식하는 시스템 구현</p>
+        <p> 라즈베리파이 + Nexmon 오픈소스로 CSI 데이터를 수집하고, 전처리 파이프라인(data_Preprocessing) 구성</p>
+        <p> LoS/NLoS 환경을 고려한 행동 인식 모델 학습 후 TensorFlow Lite로 경량화하여 모바일 추론 환경에 적용</p>
+        <p> Python 기반 서버(Server)와 Android 앱(MyApplication)을 연동해 이상 상황(움직임 없음/넘어짐 등) 감지 시 실시간 알림 제공</p>
+        <p> 앱/서버/데이터/모델 디렉토리를 분리해 전체 시스템 아키텍처 단위로 개발 및 통합</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WireShark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  
   
 <!--
 **wlstjd6524/wlstjd6524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
