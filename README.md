@@ -55,8 +55,50 @@
 
 ---
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS_S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+</div>
+
+### 🛠️ Tools & Platforms
+
+<div>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![WandB](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+</div>
+
+---
+
 ## 📜 Featured Projects
 <table align="center" width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top" style="padding: 20px;">
+      <h3>📄 문서 타입 이미지 분류 서비스</h3>
+      <a href="https://github.com/wlstjd6524/DocumentClassification"> 
+        <img width="949" height="498" alt="image" src="https://github.com/user-attachments/assets/26fc2ba2-bfb9-4c81-98c6-72c054c5c67b"/>
+      </a>
+      <p><b>Period: Feb 2026</b></p>
+      <p> ConvNeXt와 Swin Transformer를 활용한 문서 이미지 분류 프로젝트 수행</p>
+      <p> 5-Fold Stratified Cross Validation 및 클래스 불균형을 고려한 학습 전략 설계</p>
+      <p> 문서 이미지 종횡비 분석을 기반으로 전처리 및 입력 파이프라인 개선</p>
+      <p> CNN + Transformer 구조의 로그잇 앙상블 및 TTA를 통한 일반화 성능 향상</p>
+      <p> Mixed Precision, Scheduler 튜닝을 통한 학습 효율 및 안정성 최적화</p>
+      <p> 💡 딥러닝 프로젝트 전 과정을 직접 경험하며 PyTorch 기반 학습 파이프라인 설계와 데이터 이해의 중요성을 체감 및 학습</p> 
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+        <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-FF0000?style=flat-square&logo=Notion&logoColor=black"/>
+      </p>
+    </td>
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
       <h3>💬 MLOps PipeLine 일부 구현 & TMDB 데이터를 활용한 영화 평점 예측 서비스</h3>
@@ -91,10 +133,11 @@
       <p> 파생변수 생성과 피처 엔지니어링을 통해 모델 성능에 영향을 주는 핵심 특성 설계</p>
       <p> LightGBM 모델을 활용하여 가격 예측 모델 학습 및 Optuna 라이브러리를 통해 하이퍼파라미터 튜닝으로 성능 최적화</p>
       <p> 예측결과를 기반으로 제출용 테스트 모델과 결과 파일을 생성</p>
-      <p> 💡 머신러닝에 대한 각 단계별로 어떤 작업이 이루어지는지, 전반적인 흐름 파악 및 학습습</p> 
+      <p> 💡 머신러닝에 대한 각 단계별로 어떤 작업이 이루어지는지, 전반적인 흐름 파악 및 학습</p> 
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
         <img src="https://img.shields.io/badge/LightGBM-F37?style=flat-square&logo=themodelsresource&logoColor=white"/>
         <img src="https://img.shields.io/badge/Optuna-002C76?style=flat-square&logo=githubactions&logoColor=white"/>
       </p>
