@@ -2,9 +2,11 @@
   
   Hi there 👋 <br>
   🔥 AI Developer | AI Agent | LLM Engineer<br>
-  I'm preparing an **AI agent** right now <br> 
+  I'm preparing an **AI agent** right now <br> <br>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/wlstjd6524)
+[이력서]( )
+  
+  [![Technical Blog](https://img.shields.io/badge/Portfolio-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/wlstjd6524)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](gam10678@gmail.com)
 
 </div>
@@ -196,7 +198,7 @@
 ### 🎓 Education
 - **한림대학교 소프트웨어융합학부 빅데이터 전공 (3.0/4.5)** — 2025 졸업
 - **한림대학교 소프트웨어융합학부 스마트 IOT 부전공 (3.0/4.5)** - 2025 졸업  
-- **FastCampus x Upstage AI Bootcamp (이수중)** — 2025 예정
+- **FastCampus x Upstage AI Bootcamp (이수중)** — 2026 예정
 
 ---
 
