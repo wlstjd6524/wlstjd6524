@@ -61,7 +61,28 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>📄 문서 타입 이미지 분류 서비스</h3>
+      <h3>📄 일상생활에서 사용하는 대화문을 바탕으로 대화 요약문 생성  |  Rank: 🥈 2nd (Final_result : 48.0093)</h3>
+      <a href="https://github.com/wlstjd6524/DialogueSummarization"> 
+        <img width="949" height="498" alt="image" src="https://github.com/user-attachments/assets/26fc2ba2-bfb9-4c81-98c6-72c054c5c67b"/>
+      </a>
+      <p><b>Period: Mar 2026</b></p>
+      <p> ConvNeXt와 Swin Transformer를 활용한 문서 이미지 분류 프로젝트 수행</p>
+      <p> 5-Fold Stratified Cross Validation 및 클래스 불균형을 고려한 학습 전략 설계</p>
+      <p> 문서 이미지 종횡비 분석을 기반으로 전처리 및 입력 파이프라인 개선</p>
+      <p> CNN + Transformer 구조의 로그잇 앙상블 및 TTA를 통한 일반화 성능 향상</p>
+      <p> Mixed Precision, Scheduler 튜닝을 통한 학습 효율 및 안정성 최적화</p>
+      <p> 💡 딥러닝 프로젝트 전 과정을 직접 경험하며 PyTorch 기반 학습 파이프라인 설계와 데이터 이해의 중요성을 체감 및 학습</p> 
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+        <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-FF0000?style=flat-square&logo=Notion&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" align="left" valign="top" style="padding: 20px;">
+      <h3>📄 문서 타입 별로 이미지 분류 파이프라인 설계  |  Rank: 🥉 3rd (F1 Score : 0.9174)</h3>
       <a href="https://github.com/wlstjd6524/DocumentClassification"> 
         <img width="949" height="498" alt="image" src="https://github.com/user-attachments/assets/26fc2ba2-bfb9-4c81-98c6-72c054c5c67b"/>
       </a>
@@ -81,6 +102,7 @@
         <img src="https://img.shields.io/badge/Notion-FF0000?style=flat-square&logo=Notion&logoColor=black"/>
       </p>
     </td>
+
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
       <h3>💬 MLOps PipeLine 일부 구현 & TMDB 데이터를 활용한 영화 평점 예측 서비스</h3>
@@ -105,7 +127,7 @@
       </p>
     </td>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>🏡 서울 아파트 실거래가 예측 서비스 | Rank: 🥇 1st (RMSE: 11780)</h3>
+      <h3>🏡 서울 아파트 실거래가 데이터를 통한 예상 실거래가 예측  |  Rank: 🥇 1st (RMSE: 11780)</h3>
       <a href="https://github.com/wlstjd6524/HousePricePrediction"> <br>
         <img src="https://github.com/user-attachments/assets/507d8897-7588-47b7-80b1-bf448aa4a9fb" alt="HousePricePrediction" width="100%"/>
       </a>
@@ -150,7 +172,7 @@
       </p>
     </td>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>🖼️ Wi-Fi CSI Data 를 활용한 실시간 행동 모니터링 시스</h3>
+      <h3>🖼️ Wi-Fi CSI Data 를 활용한 실시간 행동 모니터링 시스템 </h3>
       <a href="https://github.com/wlstjd6524/capstoneDevelopPro"> <br>
         <img src="https://github.com/user-attachments/assets/d23de58a-b095-41ab-b0d5-6d5837b40a36" alt="Document Classification" width="100%"/>
       </a>
