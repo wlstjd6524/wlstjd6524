@@ -78,11 +78,14 @@
         <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
         <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black"/>
         <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-FF0000?style=flat-square&logo=Notion&logoColor=black"/>
+        <img src="https://img.shields.io/badge/UnSloth-FFD21E?style=flat-square&logo=HuggingFace&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LoRA-4285F4?style=flat-square&logo=huggingface&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qwen3-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solar-512BD4?style=flat-square&logo=graphql&logoColor=white"/>
       </p>
     </td>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>📄 문서 타입 별로 이미지 분류 파이프라인 설계  |  Rank: 🥉 3rd (F1 Score : 0.9174)</h3>
+      <h3>📷 문서 타입 별로 이미지 분류 파이프라인 설계  |  Rank: 🥉 3rd (F1 Score : 0.9174)</h3>
       <a href="https://github.com/wlstjd6524/DocumentClassification"> 
         <img width="949" height="498" alt="image" src="https://github.com/user-attachments/assets/26fc2ba2-bfb9-4c81-98c6-72c054c5c67b"/>
       </a>
@@ -105,7 +108,7 @@
 
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>💬 MLOps PipeLine 일부 구현 & TMDB 데이터를 활용한 영화 평점 예측 서비스</h3>
+      <h3>🎬 MLOps PipeLine 일부 구현 & TMDB 데이터를 활용한 영화 평점 예측 서비스</h3>
       <a href="https://github.com/wlstjd6524/Mlops"> 
         <img width="949" height="498" alt="image" src="https://github.com/user-attachments/assets/77a5f707-1752-4b57-a428-d06c5cec21fa"/>
       </a>
@@ -150,7 +153,7 @@
 
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>🏢 OpenAI 를 통한 나만의 자동화 음악 큐레이션 시스템</h3>
+      <h3>🎧 OpenAI 를 통한 나만의 자동화 음악 큐레이션 시스템</h3>
       <a href="https://github.com/wlstjd6524/OpenAiAutoDJ"> <br>
         <img src="https://github.com/user-attachments/assets/f21a0a0c-a701-476b-a583-d57409fcc5b1" alt="OpenAiAutoDJ" width="100%"/>
       </a>
@@ -172,7 +175,7 @@
       </p>
     </td>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
-      <h3>🖼️ Wi-Fi CSI Data 를 활용한 실시간 행동 모니터링 시스템 </h3>
+      <h3>👨‍🦯 Wi-Fi CSI Data 를 활용한 실시간 행동 모니터링 시스템 </h3>
       <a href="https://github.com/wlstjd6524/capstoneDevelopPro"> <br>
         <img src="https://github.com/user-attachments/assets/d23de58a-b095-41ab-b0d5-6d5837b40a36" alt="Document Classification" width="100%"/>
       </a>
