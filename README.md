@@ -63,7 +63,7 @@
     <td width="50%" align="left" valign="top" style="padding: 20px;">
       <h3>📄 일상생활에서 사용하는 대화문을 바탕으로 대화 요약문 생성  |  Rank: 🥈 2nd (Final_result : 48.0093)</h3>
       <a href="https://github.com/wlstjd6524/DialogueSummarization"> 
-        <img width="949" height="498" alt="image" src="https://github.com/user-attachments/assets/26fc2ba2-bfb9-4c81-98c6-72c054c5c67b"/>
+        <img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/379ae568-e209-427c-88f5-d9df484dfb69" />
       </a>
       <p><b>Period: Mar 2026</b></p>
       <p> ConvNeXt와 Swin Transformer를 활용한 문서 이미지 분류 프로젝트 수행</p>
