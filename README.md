@@ -11,14 +11,22 @@
 
 </div>
 
+## 📜 Licenses
+<div>
+
+- **리눅스 마스터 2급 (Linux Master 2nd Grade)**
+
+</div>
+
+
 ## 💻 Tech Stack
 
 ### 🐍 Programming Languages
 
 <div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java"/>
 
 </div>
 
@@ -26,20 +34,53 @@
 
 <div>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/XGBoost-13B1F8?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/LightGBM-000000?style=for-the-badge" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/Optuna-252A60?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
 
+</div>
+
+### 👁️ Computer Vision
+<div>
+  
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Albumentations-8E44AD?style=for-the-badge&logo=python&logoColor=white" alt="Albumentations"/>
+<img src="https://img.shields.io/badge/timm-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="timm"/>
+
+</div>
+
+### 🧠 LLM & Fine-Tuning & RAG, NLP
+<div>
+  
+<img src="https://img.shields.io/badge/Hugging_Face-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Sentence Transformers"/>
+<img src="https://img.shields.io/badge/PEFT_(LoRA)-4B32C3?style=for-the-badge&logo=huggingface&logoColor=white" alt="PEFT"/>
+<img src="https://img.shields.io/badge/Unsloth-FF6600?style=for-the-badge&logo=pytorch&logoColor=white" alt="Unsloth"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge&logo=python&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Kiwipiepy-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Kiwipiepy"/>
+  
 </div>
 
 ### 🔄 MLOps & Infrastructure
 
 <div>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS_S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3"/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+
+</div>
 
 </div>
 
@@ -47,16 +88,11 @@
 
 <div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![WandB](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-
-</div>
-
-### 📖 Using Library
-
-<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="WandB"/>
+<img src="https://img.shields.io/badge/uv-DE2C2C?style=for-the-badge&logo=python&logoColor=white" alt="uv"/>
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
 
 </div>
 
