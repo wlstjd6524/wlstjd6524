@@ -100,6 +100,58 @@
 
 ## 📜 Featured Projects
 <table align="center" width="100%">
+
+  <tr>
+    <td width="50%" align="left" valign="top" style="padding: 20px;">
+      <h3>🤖 LangGraph, LangChain, RAG & DB 기반 의도 분류(Router) 및 다중 도구 제어 시스템 - ESG AI Agent</h3>
+      <a href="https://github.com/wlstjd6524/DialogueSummarization"> 
+        <img width="8192" height="5488" alt="Image" src="https://github.com/user-attachments/assets/5cb44eba-a1f7-4292-9595-ded77a3355e4" /> <br>
+      </a>
+      <p><b>Period: Mar 2026</b></p>
+      <p> ConvNeXt와 Swin Transformer를 활용한 문서 이미지 분류 프로젝트 수행</p>
+      <p> 5-Fold Stratified Cross Validation 및 클래스 불균형을 고려한 학습 전략 설계</p>
+      <p> 문서 이미지 종횡비 분석을 기반으로 전처리 및 입력 파이프라인 개선</p>
+      <p> CNN + Transformer 구조의 로그잇 앙상블 및 TTA를 통한 일반화 성능 향상</p>
+      <p> Mixed Precision, Scheduler 튜닝을 통한 학습 효율 및 안정성 최적화</p>
+      <p> 💡 딥러닝 프로젝트 전 과정을 직접 경험하며 PyTorch 기반 학습 파이프라인 설계와 데이터 이해의 중요성을 체감 및 학습</p> 
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+        <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UnSloth-FFD21E?style=flat-square&logo=HuggingFace&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LoRA-4285F4?style=flat-square&logo=huggingface&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qwen3-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solar-512BD4?style=flat-square&logo=graphql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" align="left" valign="top" style="padding: 20px;">
+      <h3>👨‍🔬 RAG 기반 챗봇 백엔드 시스템 구축 및 최적화 - 과학 지식 QA  |  Rank: 🥇 1st (MAP : 0.9242 | MRR : 0.9318)</h3>
+      <a href="https://github.com/wlstjd6524/IR"> 
+        <img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/57c61fa8-9a47-42ec-a7cf-d8b2ac8a5eb4" /> <br>
+      </a>
+      <p><b>Period: 2026.03.25 ~ 2026.03.31</b></p>
+      <p> ConvNeXt와 Swin Transformer를 활용한 문서 이미지 분류 프로젝트 수행</p>
+      <p> 5-Fold Stratified Cross Validation 및 클래스 불균형을 고려한 학습 전략 설계</p>
+      <p> 문서 이미지 종횡비 분석을 기반으로 전처리 및 입력 파이프라인 개선</p>
+      <p> CNN + Transformer 구조의 로그잇 앙상블 및 TTA를 통한 일반화 성능 향상</p>
+      <p> Mixed Precision, Scheduler 튜닝을 통한 학습 효율 및 안정성 최적화</p>
+      <p> 💡 딥러닝 프로젝트 전 과정을 직접 경험하며 PyTorch 기반 학습 파이프라인 설계와 데이터 이해의 중요성을 체감 및 학습</p> 
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
+        <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UnSloth-FFD21E?style=flat-square&logo=HuggingFace&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LoRA-4285F4?style=flat-square&logo=huggingface&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qwen3-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solar-512BD4?style=flat-square&logo=graphql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
       <h3>📄 일상생활에서 사용하는 대화문을 바탕으로 대화 요약문 생성  |  Rank: 🥈 2nd (Final_result : 48.0093)</h3>
@@ -146,6 +198,7 @@
         <img src="https://img.shields.io/badge/Notion-FF0000?style=flat-square&logo=Notion&logoColor=black"/>
       </p>
     </td>
+  </tr>
 
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 20px;">
